@@ -1,0 +1,20 @@
+{
+  "name": "First-Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.8.6",
+    "chalk": "^4.1.0",
+    "cli-spinners": "^2.5.0",
+    "ora": "^5.1.0",
+    "readline-sync": "^1.4.10",
+    "terminal-kit": "^1.44.0"
+  }
+}
